@@ -9,7 +9,7 @@
 
 | # | Section | File | Level |
 |---|---|---|---|
-| 1 | **Foundation** — What is Docker, Why it exists, Containers vs VMs, Architecture, Installation | [01-Foundation.md](.Docker-Notes/01-Foundation.md) | 🟢 Beginner |
+| 1 | **Foundation** — What is Docker, Why it exists, Containers vs VMs, Architecture, Installation | [01-Foundation.md](./Docker-Notes/01-Foundation.md) | 🟢 Beginner |
 | 2 | **Core Concepts** — Images, Containers, Dockerfile, Layers, Volumes, Networks, Bind Mounts, Env Vars, Ports, Registry | [02-Core-Concepts.md](./02-Core-Concepts.md) | 🟢 Beginner |
 | 3 | **Workflow & Commands** — Image/Container lifecycle, Essential CLI, Logs, Inspect, Exec vs Attach, Prune | [03-Workflow-Commands.md](./03-Workflow-Commands.md) | 🟢 Beginner |
 | 4 | **Dockerfile Deep Dive** — All instructions, Multi-stage builds, Build cache, Best practices, Security | [04-Dockerfile-Deep-Dive.md](./04-Dockerfile-Deep-Dive.md) | 🟡 Intermediate |
